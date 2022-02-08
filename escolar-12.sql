@@ -1,0 +1,4 @@
+nmdisciplina	codigo	prereq
+CDI	MAT2021	MAT2020
+CE	MAT4040	NULL
+MD	MAT2020	NULL
